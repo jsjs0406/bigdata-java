@@ -8,6 +8,7 @@ import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 
 public class TicketReservation {
+	
 	static int num = 0;
 
 	public static void main(String[] args) {
